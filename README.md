@@ -4,6 +4,8 @@
 
 ## Glossary
 
+A lightweight utility that batch-converts large sets of CSV files into clean, well-structured JSON—perfect for feeding data straight into your CRM’s import workflow. Born out of an internal need to migrate thousands of spreadsheet records quickly and reliably, this tool automates the transformation process, preserves header mappings, and outputs ready-to-use JSON that meets common CRM schema requirements. Ideal for developers or analysts who need a fast, scriptable way to move data from spreadsheets to modern systems without manual reformatting.
+
 - **CSV**: Comma-Separated Values
 - **JSON**: JavaScript Object Notation
 
